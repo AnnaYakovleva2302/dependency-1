@@ -2,7 +2,7 @@ package ru.netology.manager;
 
 import ru.netology.domain.Movie;
 
-public class MoviesManager {
+private class MoviesManager {
     private Movie[] movies = new Movie[0];
     private int limit;
 
